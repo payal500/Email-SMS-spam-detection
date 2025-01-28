@@ -1,21 +1,19 @@
 # Email-SMS-spam-detection
 
-Overview
+**Overview**
 This project is a machine learning-based system for detecting spam in emails and SMS messages. Using advanced algorithms, it classifies messages as either Spam or Legitimate (Ham). The project features an interactive user interface built with Streamlit to provide real-time results.
 
 **Features**
 
-_**Real-time Spam Detection**__:  Classifies messages instantly using trained machine learning models
+**Real-time Spam Detection**:  Classifies messages instantly using trained machine learning models
 
-**Intuitive Interface**__: Built with Streamlit for user-friendly interaction.
+**Intuitive Interface**: Built with Streamlit for user-friendly interaction.
 
-**High Accuracy**__: Utilizes robust algorithms like Naive Bayes and Logistic Regression.
+**High Accuracy**: Utilizes robust algorithms like Naive Bayes and Logistic Regression.
 
-**Scalable and Lightweight**__: Designed to handle varying workloads efficiently.
+**Scalable and Lightweight**: Designed to handle varying workloads efficiently.
 
-**Dataset**__
-
-The system is trained on a labeled dataset containing SMS and email messages, with two categories: Spam and Ham (Legitimate). The dataset includes features like text content and message metadata.
+**Dataset** The system is trained on a labeled dataset containing SMS and email messages, with two categories: Spam and Ham (Legitimate). The dataset includes features like text content and message metadata.
 
 **Algorithms and Techniques**
 
@@ -36,13 +34,13 @@ TF-IDF Vectorization: Converts textual data into numerical format for model proc
 
 **How It Works**
 
-**Preprocessing**__: The input text is cleaned and tokenized.
+**Preprocessing**: The input text is cleaned and tokenized.
 
-**Vectorization:**__ TF-IDF converts text into numerical form.
+**Vectorization:** TF-IDF converts text into numerical form.
 
-_**Classification:**_ The trained model predicts whether the message is spam or ham.
+**Classification:** The trained model predicts whether the message is spam or ham.
 
-**Result Display**__: The app shows the result with a simple interface.
+**Result Display**: The app shows the result with a simple interface.
 
 
 For any inquiries, please reach out to:
