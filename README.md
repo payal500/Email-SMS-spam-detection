@@ -3,6 +3,9 @@
 **Overview**
 This project is a machine learning-based system for detecting spam in emails and SMS messages. Using advanced algorithms, it classifies messages as either Spam or Legitimate (Ham). The project features an interactive user interface built with Streamlit to provide real-time results.
 
+![image](https://github.com/user-attachments/assets/19a7acfe-320b-4f8d-9a05-7d4bf9173a44)
+
+
 **Features**
 
 **Real-time Spam Detection**:  Classifies messages instantly using trained machine learning models
