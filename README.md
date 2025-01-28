@@ -46,6 +46,8 @@ TF-IDF Vectorization: Converts textual data into numerical format for model proc
 For any inquiries, please reach out to:
 
 Name: Payal Jain
+
 Email: Payaljain8287@gmail.com
+
 GitHub: https://github.com/payal500
 
